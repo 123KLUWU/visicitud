@@ -1,0 +1,5 @@
+.env
+storage/logs/laravel.log
+.vscode/sftp.json
+.vscode/settings.json
+.idx/dev.nix
